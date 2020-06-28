@@ -18,6 +18,9 @@ public class Week3Tuesday {
         System.out.println("Learning the push operation");
         System.out.println("Learning to pull from the remote repository");
         System.out.println("Learning how to fetch and merge");
+        System.out.println("Learning how to use branch");
+        
+       
     }
     
 }
