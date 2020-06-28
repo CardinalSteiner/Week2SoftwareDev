@@ -17,6 +17,7 @@ public class Week3Tuesday {
     public static void main(String[] args) {
         System.out.println("Learning the push operation");
         System.out.println("Learning to pull from the remote repository");
+        System.out.printn("Learning how to fetch and merge");
     }
     
 }
